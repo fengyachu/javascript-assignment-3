@@ -33,5 +33,5 @@ do {
    var mountainCap = document.createElement("div");
    mountainCap.className = "mountain-cap-" + i;
    i++;
-   moutainTop.appendChild(mountainCap)
+   mountainTop.appendChild(mountainCap)
 } while (i < 4);
